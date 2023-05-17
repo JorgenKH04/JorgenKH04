@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 📫 How to reach me **jorgenkh04.kodehode@gmail.com**
+- 📫 How to reach me **Discord: JorgenK-H04#7718**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
