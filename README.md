@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Kodehode**
 
-- 🌱 I’m currently learning **Html/Css/Js/React**
+- 🌱 I’m currently learning **Express/MongoDB**
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate on **Front-end/Back-end projects**
 
 - 📫 How to reach me **Discord: JorgenK-H04#7718**
 
