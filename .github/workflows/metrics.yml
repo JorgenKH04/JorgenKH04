@@ -62,3 +62,4 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: 11101267411
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
