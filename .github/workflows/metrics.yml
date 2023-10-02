@@ -27,7 +27,7 @@ jobs:
           # Options
           user: JorgenKH04
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: Europe/Oslo
           plugin_activity: yes
           plugin_activity_days: 14
